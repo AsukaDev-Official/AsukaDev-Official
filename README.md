@@ -3,10 +3,6 @@
 ## Hi there 👋
 Currently I am open to any opportunity especially in IT as a Mobile Developer and Web Developer. 
 
-<p align="center">
-  <img src="https://github.com/Asuka-Dev/Asuka-Dev/blob/main/images-2.jpg" height="200" width="450"/>
-</p>
-
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=linux" />
@@ -36,9 +32,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 
 ### Let's connect!
 <p>
-    <a href="http://kelaskode.rf.gd" target="blank"><img src="https://img.shields.io/badge/Website-https://kelaskode.rf.gd-green?" /></a>
-    <a href="https://facebook.com/asukadev.official" target="blank"><img src="https://img.shields.io/badge/Asuka-Dev-30302f?style=flat&logo=facebook" /></a>
+    <a href="#" target="blank"><img src="https://img.shields.io/badge/Website-https://asukadev.com-green?" /></a>
+    <a href="#" target="blank"><img src="https://img.shields.io/badge/Asuka-Dev-30302f?style=flat&logo=facebook" /></a>
     </p>
 
-
-![template_s](https://github.com/Asuka-Dev/Asuka-Dev/blob/main/20210307_155652.png)
