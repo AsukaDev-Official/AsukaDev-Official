@@ -29,6 +29,10 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsukaDev-Official&layout=compact" height=180 />
 </p>
 
+## Trophies
+
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=AsukaDev-Official&row=2&column=3"/>
+
 
 ### Let's connect!
 <p>
